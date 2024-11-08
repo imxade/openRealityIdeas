@@ -7,19 +7,6 @@ It doesn’t matter if nobody cares about our ideas, the goal is to build a cata
 
 If any of us are ever in a position to shape the future of XR, we won’t need to brainstorm from scratch.
 
-### Contributing to This Document
-
-Do consider contributing to this markdown! Here’s how:
-
-- **Add Your Ideas**: Share your own thoughts on how XR can evolve.
-- **Challenge Existing Ideas**: Open issues to discuss improvements or alternative approaches, inviting community input.
-- **Clarify or Elaborate**: Expand on existing ideas where more detail might help.
-- **Improve Structure**: Suggest ways to categorize and organize this document more effectively.
-- **Suggest Practical Implementations**: Offer specific ways to bring ideas to life.
-
-> **Note:** Before creating a pull request (PR), may be consider opening an issue to involve the community in the discussion. PRs should relate to XR interface concepts.
-
-
 ## 1. Core Requirements
 
 ### 1.1 3D-First Interface
@@ -108,3 +95,18 @@ Some incoming key opportunities with XR.
 
 ### 5.3 Game Engine: Games + FrontEnd
 - A unified approach to creating interfaces for both games and applications using game engines will also provide a real alternative to JavaScript fatigue.
+
+
+## Contributing to This Document
+
+Do consider contributing to this markdown! Here’s how:
+
+- **Add Your Ideas**: Share your own thoughts on how XR can evolve.
+- **Challenge Existing Ideas**: Open issues to discuss improvements or alternative approaches, inviting community input.
+- **Clarify or Elaborate**: Expand on existing ideas where more detail might help.
+- **Improve Structure**: Suggest ways to categorize and organize this document more effectively.
+- **Suggest Practical Implementations**: Offer specific ways to bring ideas to life.
+
+> **Note:** Before creating a pull request (PR), may be consider opening an issue to involve the community in the discussion. PRs should relate to XR interface concepts.
+
+

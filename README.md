@@ -55,7 +55,7 @@ Eliminate the possibility of the camera feed going online. This is vital as head
   
 #### Option1: Third-party apps as extension 
 
-A default interface/app to be extended by thirdparty apps.
+A default interface/app to be extended by third-party apps.
 - Other apps will serve as an extension to the default one, extending both functionality and interface.
 - The default app will make use of extensions not the other wise, **thereby not allowing extensions to access the feed**.
   - For example: In case of an object detection app the functionality needs to be implemented in a standard way so the default app could utilize it to process the feed locally and the interface will be modified for user interaction. 

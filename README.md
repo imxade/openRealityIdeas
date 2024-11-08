@@ -43,7 +43,7 @@ Develop a coherent model for users to understand navigation and interaction with
 |-----------------------------|----------------------|-----------------------------------------------------------------------------------------------|
 | **Zooming/Bionic Eye**      | Hardware             | Zooming functionality.                              |
 | **Eye Tracking**            |              | Support for gaze-based interactions and precise navigation in the VR space. [Pupil Labs](https://github.com/pupil-labs/pupil)                      |
-| **Eye Power Correction**    | Software             | Adjust display properties to change **image focus** based on users' visual requirements.                           |
+| **Eye Power Correction**    | Software             | Seeing the world through a screen should allow us to alter properties of image and change it's **focus** based on users' visual requirements.                           |
 | **Eye Power Correction**    | Hardware             | Prescribed lenses or membranes with liquid adjustments for vision correction.            |
 
 
